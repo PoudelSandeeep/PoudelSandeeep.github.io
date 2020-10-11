@@ -1,0 +1,31 @@
+ body {
+ color:#777777;
+  }
+.sidewidth {
+width:20px
+height:20px ;
+}
+.halfwidth{
+width:50%;
+padding-left:25% ;
+padding-top: 25%;
+}
+.container{
+padding-top:15px;
+display:inline-block;
+}
+ .color{
+ color:#135FF6;
+ }
+ .link{
+ text-decoration:none ;
+ }
+ .button{
+ color:white;
+ background-color:#8845f4;
+ border-margin:13px 41px 13px 41px;
+ padding:13px 41px 13px 41px ;
+ border-radius:20px;
+ text-decoration:none ;
+ 
+ }
