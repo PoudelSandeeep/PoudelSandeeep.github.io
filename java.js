@@ -1,5 +1,5 @@
 let a = prompt("What's the password?🧐");
-if (a == "happy123"){  
+if (a == "password"){  
 }
 else{
     window.location="https://www.google.com"
